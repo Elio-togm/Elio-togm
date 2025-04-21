@@ -11,8 +11,8 @@ Currently, I'm working on a **CLI API tool** that fetches and displays recent Gi
 - 📚 Always learning and experimenting with new tech
 
 ## 🚧 Current Project
-**📦 GitHub Activity CLI Tool**  
-A terminal-based application that fetches and displays GitHub user activity via API — designed to be fast, minimal, and useful.
+**📦 Portfolio Website**  
+A portfolio website that will work as a starting point to show off my projects and experience in a professional manner.
 
 ## 📫 Get in Touch
 Feel free to reach out at **aydenp.togm@gmail.com**  
