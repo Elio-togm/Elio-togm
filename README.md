@@ -11,8 +11,8 @@ Currently, I'm working on a **CLI API tool** that fetches and displays recent Gi
 - 📚 Always learning and experimenting with new tech
 
 ## 🚧 Current Project
-**📦 Portfolio Website**  
-A portfolio website that will work as a starting point to show off my projects and experience in a professional manner.
+**📦 Authentification Chat App**  
+A real time chat application that requires users to sign in with a username/email and password.
 
 ## 📫 Get in Touch
 Feel free to reach out at **aydenp.togm@gmail.com**  
