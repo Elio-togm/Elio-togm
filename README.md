@@ -11,8 +11,8 @@ Currently, I'm working on a **CLI API tool** that fetches and displays recent Gi
 - 📚 Always learning and experimenting with new tech
 
 ## 🚧 Current Project
-**📦 Authentification Chat App**  
-A real time chat application that requires users to sign in with a username/email and password.
+**🕹️ Breakout Clone**  
+A breakout clone with a slight twist.
 
 ## 📫 Get in Touch
 Feel free to reach out at **aydenp.togm@gmail.com**  
