@@ -1,18 +1,15 @@
 # 👋 Hi there, I'm Ayden Powell (aka Elio-togm)
 
 I'm a **Software Engineer** who loves building useful tools and exploring how technology can shape our future.  
-Currently, I'm working on a **CLI API tool** that fetches and displays recent GitHub user activity right in your terminal.
+Currently, I'm working on a **Binary Reading Tool** that reads a given binary file and convert the binary into MIPS assembly for the Playstation 2's CPU.
 
 ## 🧠 About Me
-- 💻 Proficient in **Python** and **C**
-- 🌐 Experience with **Django**, **HTML**, and **CSS**
+- 💻 Proficient in **Python** and **C++**
 - 🎮 Gamer at heart, always up for a challenge
-- 🤖 Passionate about **AI** and its future in the software industry
 - 📚 Always learning and experimenting with new tech
 
 ## 🚧 Current Project
-**🕹️ Breakout Clone**  
-A breakout clone with a slight twist.
+Hex-Reader
 
 ## 📫 Get in Touch
 Feel free to reach out at **aydenp.togm@gmail.com**  
